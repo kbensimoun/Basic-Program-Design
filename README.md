@@ -1,2 +1,2 @@
-# Basic-Program-Design
-Introduction programs from class
+# Programming Concepts
+All programs done in java
